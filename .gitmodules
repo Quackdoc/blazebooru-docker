@@ -1,4 +1,4 @@
 [submodule "blazebooru"]
 	path = blazebooru
-	url = https://github.com/forbjok/blazebooru.git
-	branch = master
+	url = https://github.com/quackdoc/blazebooru.git
+	branch = jxl
